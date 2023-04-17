@@ -177,5 +177,6 @@ pyrightconfig.json
 .vscode/
 DataAnalysisCourseMaterials.zip
 DataAnalysis/
+mynotes.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python
